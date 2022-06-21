@@ -47,7 +47,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React Redux
+            React Redux tests new branch
           </a>
         </span>
       </header>
